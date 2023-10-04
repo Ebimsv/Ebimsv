@@ -10,12 +10,6 @@ I'm a passionate machine learning and computer vision enthusiast with deep knowl
 💼 Professional Experience:
 I have 5 years of experience working in the computer vision domain. I have contributed to projects that involve diverse applications, including autonomous driving, medical imaging, augmented reality, and surveillance systems. I possess a proven track record of successfully delivering high-quality solutions and collaborating with cross-functional teams.
 
-🌱 Continuous Learning:
-I believe in the power of continuous learning and staying up-to-date with the latest advancements in the field. I’m currently focusing on Generative Models, such as Diffusion models, Variational autoencoder, and essential computer vision tasks.
-
-🚀 Open-Source Contributions:
-I am a strong advocate for open-source software and have actively contributed to various machine learning and computer vision projects. You can find some of my work and contributions on my GitHub repositories.
-
 📫 Get in Touch:
 Feel free to reach out to me via email at ebrahimmoosavi2010@gmail.com or connect with me on LinkedIn at linkedin.com/in/ebiimsv. I'm always open to interesting ideas and new opportunities.
 
