@@ -11,7 +11,7 @@ I'm a passionate machine learning and computer vision enthusiast with deep knowl
 I have 5 years of experience working in the deep learning domain. I have contributed to projects that involve diverse applications. I possess a proven track record of successfully delivering high-quality solutions and collaborating with cross-functional teams.
 
 📫 Get in Touch:
-Feel free to reach out to me via email at ebrahimmoosavi2010@gmail.com or connect with me on LinkedIn at linkedin.com/in/ebiimsv. I'm always open to interesting ideas and new opportunities.
+Feel free to reach out to me via email at ebimsv0501@gmail.com or connect with me on LinkedIn at linkedin.com/in/ebiimsv. I'm always open to interesting ideas and new opportunities.
 <!---
 Ebimsv/Ebimsv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
