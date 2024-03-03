@@ -24,11 +24,11 @@ introduction = myself.introduce()
 print(introduction)
 ```
 👋 Greetings, I'm Ebrahim! 🤖  
-As a Deep Learning Engineer, I specialize in Deep Learning, Computer Vision, Machine Learning, NLP.  
-🔭 Let's create intelligent systems, unravel patterns, and make AI dreams a reality! 🚀  
+As a Deep Learning Engineer, I specialize in **Deep Learning, Computer Vision, Machine Learning, NLP**.  
+🔭 Let's create intelligent systems, and make AI dreams a reality! 🚀  
 
-📧 You can reach me at: ebimsv0501@gmail.com  
-💼 Connect with me on LinkedIn: linkedin.com/in/ebiimsv
+📧 You can reach me at: **ebimsv0501@gmail.com**  
+💼 Connect with me on LinkedIn: **linkedin.com/in/ebiimsv** 
 
 <!---
 Ebimsv/Ebimsv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
