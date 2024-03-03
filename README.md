@@ -1,4 +1,3 @@
-
 <img src='https://github-readme-stats.vercel.app/api?username=Ebimsv&show_icons=true&theme=radical)'/>
 
 
@@ -11,9 +10,9 @@ def introduce_deep_learning_engineer(name, skills, email, linkedin):
     introduction += f"\n💼 Connect with me on LinkedIn: {linkedin}"
     return introduction
 
-name = "Ebrahim"
-skills = ["Deep Learning", "Computer Vision", "Machine Learning", "NLP"]
-email = "ebimsv0501@gmail.com"
+name     = "Ebrahim"
+skills   = ["Deep Learning", "Computer Vision", "Machine Learning", "NLP"]
+email    = "ebimsv0501@gmail.com"
 linkedin = "linkedin.com/in/ebiimsv"
 
 introduction = introduce_deep_learning_engineer(name, skills, email, linkedin)
