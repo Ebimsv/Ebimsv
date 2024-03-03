@@ -8,15 +8,15 @@
 
 <h2>About Me</h2>
 
-<p align="justify">I am a Deep learning developer with 14 years of coding experience.</p>
+<p align="justify">I am a Deep learning developer with 5 years of coding experience.</p>
 
-<p align="justify">I started in 2009 with HTML and CSS, making simple static web pages and expanding my knowledge over time. Around 2010/2011, I started to learn how to use JavaScript to create dynamic web apps. During this time I also learned a version of BASIC so I could program games for my 3DS using a DSi app called Petit Computer. In 2015 I found NodeJS and started using it to create some basic bots for various chat platforms.</p>
+<p align="justify">Highly motivated and detail-oriented developer and researcher with a Master's degree in Information Technology and a proven track record of successfully implementing Deep Learning projects.   </p>
 
-<p align="justify">My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product. The wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose.</p>
+<p align="justify">Skilled in cutting-edge technologies such as deep learning architectures, natural language processing, and machine learning algorithms.</p>
 
-<p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES11. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
+<p align="justify">Experienced in mentoring and teaching machine learning and deep learning courses, and providing training in artificial intelligence.</p>
 
-<p align="justify">Most recently I've been trying to get better at bash scripting, so I'm trying to find simple projects written in other languages that I can port to bash. My <a href="https://github.com/cheesits456/asciibots-bash">asciibots-bash</a> project is one example of this, and in the future I hope to find more projects like it that I can port to bash.</p>
+<p align="justify">Adept at collaborating with cross-functional teams and delivering projects on time and within budget. Looking to leverage my skills and experience to contribute to cutting-edge breakthroughs in the field of machine learning and AI.</p>
 
 ## My Skills
 
