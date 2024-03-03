@@ -1,3 +1,8 @@
+
+<img src='https://github-readme-stats.vercel.app/api?username=Ebimsv&show_icons=true&theme=radical)'/>
+
+
+
 ```
 class DeepLearningEngineer:
     def __init__(self, name, skills, email, linkedin):
@@ -29,6 +34,7 @@ As a Deep Learning Engineer, I specialize in **Deep Learning, Computer Vision, M
 
 📧 You can reach me at: **ebimsv0501@gmail.com**  
 💼 Connect with me on LinkedIn: **linkedin.com/in/ebiimsv** 
+
 
 <!---
 Ebimsv/Ebimsv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
