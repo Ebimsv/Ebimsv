@@ -1,4 +1,4 @@
-<h1> Hi, I'm Ebi 👨🏻‍💻 - @Ebiimsv </h1>
+<h1> Hi, I'm Ebi 👨🏻‍💻 - @Ebimsv </h1>
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ebimsv/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebiimsv/)
@@ -8,7 +8,7 @@
 
 <h2>About Me</h2>
 
-<p align="justify">I am a Deep learning developer with 5 years of coding experience.</p>
+<p align="justify">I am a Deep-learning developer with 5 years of coding experience.</p>
 
 <p align="justify">Highly motivated and detail-oriented developer and researcher with a Master's degree in Information Technology and a proven track record of successfully implementing Deep Learning projects.   </p>
 
@@ -16,7 +16,7 @@
 
 <p align="justify">Experienced in mentoring and teaching machine learning and deep learning courses, and providing training in artificial intelligence.</p>
 
-<p align="justify">Adept at collaborating with cross-functional teams and delivering projects on time and within budget. Looking to leverage my skills and experience to contribute to cutting-edge breakthroughs in the field of machine learning and AI.</p>
+<p align="justify">Adept at collaborating with cross-functional teams and delivering projects on time and within budget. Looking to leverage my skills and experience to contribute to cutting-edge breakthroughs in the field of machine learning and AI </p>
 
 ## My Skills
 
