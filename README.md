@@ -25,16 +25,26 @@ Connect with me:
 
 
 ### Libraries/Languages/Frameworks I'm good at:
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white'/> <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'/>
-<img src='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white'/>
-<img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black'/>
-<img src='https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white'/>
-<img src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white'/>
-<img src='https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white'/>
-<img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'/>
-<img src='https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white'/>
-<img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white'/>
+![PyTorch]()
+![PyTorch]()
+![PyTorch]()
+![PyTorch]()
+![PyTorch]()
+![PyTorch]()
+![PyTorch]()
+![PyTorch]()
+
+<img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white'/> <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'/> <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white'/>
+<img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black'/>
+<img src='https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white'/>
+<img src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white'/>
+<img src='https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white'/>
+<img src='https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black'/>
+<img src='https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white'/>
+<img src='https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white'/>
+
 
 ### Projects I'm Working these days:
 
