@@ -26,7 +26,7 @@ Connect with me:
   
 ## My Skills
 
-<img src='https://github-readme-stats.vercel.app/api?username=Ebimsv&show_icons=true&theme=radical)'/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebimsv&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+<img src='https://github-readme-stats.vercel.app/api?username=Ebimsv&show_icons=true&theme=radical)'/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebimsv&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
 
 ### Libraries/Languages/Frameworks I'm good at:
 
@@ -45,7 +45,3 @@ Connect with me:
 <img src='https://img.shields.io/badge/LLM-Deep%20Learning%20for%20Language%20Modeling-green?style=flat)'/> 
 <img src='https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue?style=flat'/> 
 <img src='https://img.shields.io/badge/Medical%20Segmentation-Image%20Analysis%20in%20Medicine-orange?style=flat'/>
-
-### Environments I work with:
-
-
