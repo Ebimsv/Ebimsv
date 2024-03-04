@@ -1,23 +1,22 @@
-<h1> Hi, I'm Ebi 👨🏻‍💻 - @Ebimsv </h1>
+<h1> Hi, I'm Ebi 👨🏻‍💻 </h1>
 
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ebimsv/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebiimsv/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ebiimsv/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ebimsv/)
+[![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-Follow-blue?logo=google-scholar&logoColor=white&style=square)](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebiimsv/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ebiimsv)
 
-
+------------------------
 <h2>About Me</h2>
 
 <p align="justify">I am a Deep-learning developer with 5 years of coding experience.</p>
-
-<p align="justify">Highly motivated and detail-oriented developer and researcher with a Master's degree in Information Technology and a proven track record of successfully implementing Deep Learning projects.   </p>
-
-<p align="justify">Skilled in cutting-edge technologies such as deep learning architectures, natural language processing, and machine learning algorithms.</p>
-
-<p align="justify">Experienced in mentoring and teaching machine learning and deep learning courses, and providing training in artificial intelligence.</p>
-
-<p align="justify">Adept at collaborating with cross-functional teams and delivering projects on time and within budget. Looking to leverage my skills and experience to contribute to cutting-edge breakthroughs in the field of machine learning and AI </p>
-
+<p align="justify"> Since my early childhood, I have been captivated by the fascinating world of computers. This inherent curiosity steered me towards choosing computers as my focus of study in high school. </p>
+<p align="justify"> Driven by my passion, I pursued a bachelor's degree in software engineering, where I delved deeper into the intricacies of programming, algorithms, and software development. </p>
+<p align="justify"> Around seven years ago, while pursuing my master's degree, I eagerly delved into the realm of AI and haven't looked back since. </p>
+<p align="justify"> I have immersed myself in the realms of mathematics, statistics, and probability, as these foundations form the bedrock of AI. With a firm grasp of these subjects, I have explored and understood the intricate workings of machine learning, deep learning, computer vision, and natural language processing. </p>
+<p align="justify"> I have honed my skills in these domains through countless hours of studying, research, and practical application. </p>
+<p align="justify"> I am dedicated to continuous learning and growth, and I am excited to contribute to the advancement of artificial intelligence and its applications in the years to come.</p>
+  
 ## My Skills
 
 <img src='https://github-readme-stats.vercel.app/api?username=Ebimsv&show_icons=true&theme=radical)'/>
@@ -41,13 +40,3 @@
 ### Environments I work with:
 
 
-## Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-`[02/08 13:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thedemons/merge_color_emoji_font](https://github.com/thedemons/merge_color_emoji_font)  
-`[01/23 12:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#48`](https://github.com//cheesits456/ReactionPics/issues/48 'Add "stupid" image ') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[01/11 05:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#47`](https://github.com//cheesits456/ReactionPics/issues/47 'Add this for something idk') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-`[01/11 05:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#47`](https://github.com//cheesits456/ReactionPics/issues/47 'Add this for something idk') in [cheesits456/ReactionPics](https://github.com/cheesits456/ReactionPics)  
-
-</details>
-<!--END_SECTION:activity-->
