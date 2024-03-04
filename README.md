@@ -8,7 +8,13 @@ Connect with me:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ebiimsv/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ebiimsv)
 
+--------
+### 👨‍💻 Interests:
+* Computer Vision
+* NLP
+* Deep Learning Applications
 ------------------------
+
 <h2>About Me</h2>
 
 <p align="justify">I am a Deep-learning developer with 5 years of coding experience.</p>
@@ -20,8 +26,7 @@ Connect with me:
   
 ## My Skills
 
-<img src='https://github-readme-stats.vercel.app/api?username=Ebimsv&show_icons=true&theme=radical)'/>
-
+<img src='https://github-readme-stats.vercel.app/api?username=Ebimsv&show_icons=true&theme=radical)'/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebimsv&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
 ### Libraries/Languages/Frameworks I'm good at:
 
