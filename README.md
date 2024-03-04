@@ -13,10 +13,9 @@ Connect with me:
 
 <p align="justify">I am a Deep-learning developer with 5 years of coding experience.</p>
 <p align="justify"> Since my early childhood, I have been captivated by the fascinating world of computers. This inherent curiosity steered me towards choosing computers as my focus of study in high school. </p>
-<p align="justify"> Driven by my passion, I pursued a bachelor's degree in software engineering, where I delved deeper into the intricacies of programming, algorithms, and software development. </p>
+<p align="justify"> I pursued a bachelor's degree in software engineering, where I delved deeper into the intricacies of programming, algorithms, and software development. </p>
 <p align="justify"> Around seven years ago, while pursuing my master's degree, I eagerly delved into the realm of AI and haven't looked back since. </p>
 <p align="justify"> I have immersed myself in the realms of mathematics, statistics, and probability, as these foundations form the bedrock of AI. With a firm grasp of these subjects, I have explored and understood the intricate workings of machine learning, deep learning, computer vision, and natural language processing. </p>
-<p align="justify"> I have honed my skills in these domains through countless hours of studying, research, and practical application. </p>
 <p align="justify"> I am dedicated to continuous learning and growth, and I am excited to contribute to the advancement of artificial intelligence and its applications in the years to come.</p>
   
 ## My Skills
