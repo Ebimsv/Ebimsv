@@ -36,6 +36,9 @@
 
 ### Languages/Frameworks I'm learning:
 
+<img src='https://img.shields.io/badge/LLM-Deep%20Learning%20for%20Language%20Modeling-green?style=flat-square)'/> 
+<img src='https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue?style=flat-square'/> 
+<img src='https://img.shields.io/badge/Medical%20Segmentation-Image%20Analysis%20in%20Medicine-orange?style=flat-square'/>
 
 ### Environments I work with:
 
