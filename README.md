@@ -1,5 +1,7 @@
 <h1> Hi, I'm Ebi 👨🏻‍💻 </h1>
 
+Connect with me:  
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ebiimsv/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ebimsv/)
 [![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-Follow-blue?logo=google-scholar&logoColor=white&style=square)](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ)
@@ -22,7 +24,7 @@
 <img src='https://github-readme-stats.vercel.app/api?username=Ebimsv&show_icons=true&theme=radical)'/>
 
 
-### Languages/Frameworks I'm good at:
+### Libraries/Languages/Frameworks I'm good at:
 
 <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white'/> <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'/>
 <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white'/>
@@ -34,7 +36,7 @@
 <img src='https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white'/>
 <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white'/>
 
-### Languages/Frameworks I'm learning:
+### Projects I'm Working these days:
 
 <img src='https://img.shields.io/badge/LLM-Deep%20Learning%20for%20Language%20Modeling-green?style=flat-square)'/> 
 <img src='https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue?style=flat-square'/> 
