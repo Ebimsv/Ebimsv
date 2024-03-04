@@ -2,11 +2,11 @@
 
 Connect with me:  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ebiimsv/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ebimsv/)
-[![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-Follow-blue?logo=google-scholar&logoColor=white&style=square)](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebiimsv/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ebiimsv)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ebiimsv/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ebimsv/)
+[![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-blue?logo=google-scholar&logoColor=white&style=flat)](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ebiimsv/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ebiimsv)
 
 ------------------------
 <h2>About Me</h2>
@@ -25,18 +25,8 @@ Connect with me:
 
 
 ### Libraries/Languages/Frameworks I'm good at:
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-![PyTorch]()
-![PyTorch]()
-![PyTorch]()
-![PyTorch]()
-![PyTorch]()
-![PyTorch]()
-![PyTorch]()
-![PyTorch]()
-
-<img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white'/> <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'/> <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white'/>
+<img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white'/> <img src='https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue'/> <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white'/>
 <img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black'/>
 <img src='https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white'/>
 <img src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white'/>
@@ -45,12 +35,11 @@ Connect with me:
 <img src='https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white'/>
 <img src='https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white'/>
 
-
 ### Projects I'm Working these days:
 
-<img src='https://img.shields.io/badge/LLM-Deep%20Learning%20for%20Language%20Modeling-green?style=flat-square)'/> 
-<img src='https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue?style=flat-square'/> 
-<img src='https://img.shields.io/badge/Medical%20Segmentation-Image%20Analysis%20in%20Medicine-orange?style=flat-square'/>
+<img src='https://img.shields.io/badge/LLM-Deep%20Learning%20for%20Language%20Modeling-green?style=flat)'/> 
+<img src='https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue?style=flat'/> 
+<img src='https://img.shields.io/badge/Medical%20Segmentation-Image%20Analysis%20in%20Medicine-orange?style=flat'/>
 
 ### Environments I work with:
 
