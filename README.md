@@ -34,6 +34,7 @@ Connect with me:
 <img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black'/>
 <img src='https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white'/>
 <img src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white'/>
+<img src='https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white'/>
 <img src='https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white'/>
 <img src='https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black'/>
 <img src='https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white'/>
