@@ -37,7 +37,8 @@
   
 ## Github stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebimsv&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebimsv&hide=Html&theme=nord_dark)
+<img src='https://github-readme-stats.vercel.app/api?username=ebimsv&show_icons=true&theme=dracula)'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ebimsv&card_height=250&theme=dracula&hide_border=false&include_all_commits=false&count_private=falselayout=compact' alt="Ebi's Top Languages" align="right" width="220"/>
+
 
 ## My Skills
 ### Libraries/Languages/Frameworks I'm good at:
