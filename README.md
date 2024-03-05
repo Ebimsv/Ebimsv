@@ -8,8 +8,9 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ebiimsv/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ebiimsv)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ebiimsv)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ebimsv0501@gmail.com)
 
---------
+------------------------
 ### Interests:
 * Computer Vision
 * NLP
@@ -29,7 +30,7 @@
   
 ## My Skills
 
-<img src='https://github-readme-stats.vercel.app/api?username=Ebimsv&show_icons=true&theme=radical)'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ebimsv&card_width=250&theme=radical&hide_border=false&include_all_commits=false&count_private=false' alt="Ebi's Top Languages" align="right" width="220"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebimsv&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebimsv&hide=Html&theme=nord_dark)
 
 ### Libraries/Languages/Frameworks I'm good at:
 
@@ -48,3 +49,13 @@
 <img src='https://img.shields.io/badge/LLM-Deep%20Learning%20for%20Language%20Modeling-green?style=flat)'/> 
 <img src='https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue?style=flat'/> 
 <img src='https://img.shields.io/badge/Medical%20Segmentation-Image%20Analysis%20in%20Medicine-orange?style=flat'/>
+
+### papers that I collaborated in:
+[![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://link.springer.com/article/10.1007/s40692-023-00303-w)
+[![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightwhite.svg)](https://www.sciencedirect.com/science/article/abs/pii/S026772612300177X)
+[![Paper](https://img.shields.io/badge/Arxiv-2021-bright.svg)](https://arxiv.org/abs/2111.14262)
+[![Paper](https://img.shields.io/badge/Arxiv-2022-bright.svg)](https://arxiv.org/abs/2108.04893)
+
+
+### Show your support:
+If you appreciate my work, please consider following and liking me.
