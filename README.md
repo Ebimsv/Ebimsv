@@ -66,4 +66,4 @@
 
 
 ### Show your support:
-If you appreciate my work, please consider following and liking me.
+If you appreciate my work, please consider following and liking me 😉.
