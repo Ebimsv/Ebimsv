@@ -27,7 +27,9 @@
 
 <p align="justify"> I have immersed myself in the realms of mathematics, statistics, and probability, as these foundations form the bedrock of AI. With a firm grasp of these subjects, I have explored and understood the intricate workings of machine learning, deep learning, computer vision, and natural language processing. </p>
 <p align="justify"> I am dedicated to continuous learning and growth, and I am excited to contribute to the advancement of artificial intelligence and its applications in the years to come.</p>
-  
+
+## 📕  Latest Blog Posts
+
 ## My Skills
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebimsv&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebimsv&hide=Html&theme=nord_dark)
