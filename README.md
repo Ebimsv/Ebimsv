@@ -23,9 +23,9 @@
 
 <p align="justify"> Since my early childhood, I have been captivated by the fascinating world of computers. This inherent curiosity steered me towards choosing computers as my focus of study in high school. </p>
 <p align="justify"> I pursued a bachelor's degree in software engineering, where I delved deeper into the intricacies of programming, algorithms, and software development. </p>
-<p align="justify"> About seven years ago, during my master's degree, I discovered the exciting field of AI, and I've been hooked ever since. I've devoted myself to studying mathematics, statistics, and probability because they are the foundation of AI. With a strong understanding of these subjects, I've dived into machine learning, deep learning, computer vision, and natural language processing. </p>
+<p align="justify"> About seven years ago, during my master's degree, I discovered the exciting field of AI, and I've been hooked ever since. I've devoted myself to studying mathematics, statistics, and probability because they are the foundation of AI. With a strong understanding of these subjects, I've dived into machine learning, deep learning, computer vision, and NLP. </p>
 
-<p align="justify"> I have immersed myself in the realms of mathematics, statistics, and probability, as these foundations form the bedrock of AI. With a firm grasp of these subjects, I have explored and understood the intricate workings of machine learning, deep learning, computer vision, and natural language processing. </p>
+<p align="justify"> I have explored and understood the intricate workings of machine learning, deep learning, computer vision, and NLP. </p>
 <p align="justify"> I am dedicated to continuous learning and growth, and I am excited to contribute to the advancement of artificial intelligence and its applications in the years to come.</p>
 
 ## 📕  Latest Blog Posts
@@ -35,10 +35,11 @@
 - [Machine Learning Series: Day 7 — Preprocessing (Part 2)](https://medium.com/@ebimsv/machine-learning-series-day-7-preprocessing-part-2-b25172e85663)
 - [Machine Learning Series: Day 6— Preprocessing (Part 1)](https://medium.com/@ebimsv/machine-learning-series-day-6-preprocessing-part-1-7b93cded3597)
   
-## My Skills
+## Github stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebimsv&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebimsv&hide=Html&theme=nord_dark)
 
+## My Skills
 ### Libraries/Languages/Frameworks I'm good at:
 
 <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white'/> <img src='https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue'/> <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white'/>
