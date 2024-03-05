@@ -46,9 +46,9 @@
 
 ### Projects I'm Working these days:
 
-<img src='https://img.shields.io/badge/LLM-Deep%20Learning%20for%20Language%20Modeling-green?style=flat)'/> 
+<img src='https://img.shields.io/badge/LLM-Deep%20Learning%20for%20Language%20Modeling-blue?style=flat)'/> 
 <img src='https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue?style=flat'/> 
-<img src='https://img.shields.io/badge/Medical%20Segmentation-Image%20Analysis%20in%20Medicine-orange?style=flat'/>
+<img src='https://img.shields.io/badge/Medical%20Segmentation-Image%20Analysis%20in%20Medicine-blue?style=flat'/>
 
 ### papers that I collaborated in:
 [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://link.springer.com/article/10.1007/s40692-023-00303-w)
