@@ -2,7 +2,7 @@
 
 ### Connect with me:  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ebiimsv/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ebiimsv/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ebimsv/)
 [![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-blue?logo=google-scholar&logoColor=white&style=flat)](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ebiimsv/)
@@ -30,6 +30,11 @@
 
 ## 📕  Latest Blog Posts
 
+- [Machine Learning Series: Day 9 — Under, Over, and Good Fit](https://medium.com/@ebimsv/machine-learning-series-day-9-under-over-and-good-fit-6fd223193d8e)
+- [Machine Learning Series: Day 8 — Preprocessing (Part 3)](https://medium.com/@ebimsv/machine-learning-series-day-8-preprocessing-part-3-d4feb4c7ce90)
+- [Machine Learning Series: Day 7 — Preprocessing (Part 2)](https://medium.com/@ebimsv/machine-learning-series-day-7-preprocessing-part-2-b25172e85663)
+- [Machine Learning Series: Day 6— Preprocessing (Part 1)](https://medium.com/@ebimsv/machine-learning-series-day-6-preprocessing-part-1-7b93cded3597)
+  
 ## My Skills
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebimsv&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebimsv&hide=Html&theme=nord_dark)
