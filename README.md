@@ -22,8 +22,7 @@
 
 <p align="justify">I've been coding for 5 years and specialize in deep learning.</p>
 
-<p align="justify"> Since my early childhood, I have been captivated by the fascinating world of computers. This inherent curiosity steered me towards choosing computers as my focus of study in high school. </p>
-<p align="justify"> I pursued a bachelor's degree in software engineering, where I delved deeper into the intricacies of programming, algorithms, and software development. </p>
+<p align="justify"> Since my early childhood, I have been captivated by the fascinating world of computers. This inherent curiosity steered me towards choosing computers as my focus of study in high school. I pursued a bachelor's degree in software engineering, where I delved deeper into the intricacies of programming, algorithms, and software development.</p>
 <p align="justify"> About seven years ago, during my master's degree, I discovered the exciting field of AI, and I've been hooked ever since. I've devoted myself to studying mathematics, statistics, and probability because they are the foundation of AI. With a strong understanding of these subjects, I've dived into machine learning, deep learning, computer vision, and NLP. </p>
 
 <p align="justify"> I have explored and understood the intricate workings of machine learning, deep learning, computer vision, and NLP. </p>
