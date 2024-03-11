@@ -6,6 +6,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ebimsv/)
 [![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-blue?logo=google-scholar&logoColor=white&style=flat)](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ)
 [![Scholar Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ebimsv)
+[![Scholar Badge](https://img.shields.io/badge/Exercism-009CAB?style=flat&logo=exercism&logoColor=white)](https://exercism.org/profiles/intro)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ebiimsv/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ebiimsv)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ebiimsv)
