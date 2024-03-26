@@ -30,10 +30,10 @@
 
 ## 📕  Latest Blog Posts
 
-- [Machine Learning Series: Day 9 — Under, Over, and Good Fit](https://medium.com/@ebimsv/machine-learning-series-day-9-under-over-and-good-fit-6fd223193d8e)
-- [Machine Learning Series: Day 8 — Preprocessing (Part 3)](https://medium.com/@ebimsv/machine-learning-series-day-8-preprocessing-part-3-d4feb4c7ce90)
-- [Machine Learning Series: Day 7 — Preprocessing (Part 2)](https://medium.com/@ebimsv/machine-learning-series-day-7-preprocessing-part-2-b25172e85663)
-- [Machine Learning Series: Day 6— Preprocessing (Part 1)](https://medium.com/@ebimsv/machine-learning-series-day-6-preprocessing-part-1-7b93cded3597)
+- [Machine Learning Series: Day 13 — Logistic Regression (Part 2)](https://medium.com/@ebimsv/machine-learning-series-day-13-logistic-regression-part-2-cea53d64934f)
+- [Machine Learning Series: Day 12 — Logistic Regression (Part 1)](https://medium.com/@ebimsv/machine-learning-series-day-12-logistic-regression-part-1-ce0192badac0)
+- [Machine Learning Series: Day 11 — Different Types of Learning in ML](https://medium.com/@ebimsv/machine-learning-series-day-11-different-types-of-learning-in-ml-cb72bc16a597)
+- [Machine Learning Series: Day 10 — Bias Variance Trade-off](https://medium.com/@ebimsv/machine-learning-series-day-10-bias-variance-trade-off-78174d54a378)
   
 ## Github stats
 
