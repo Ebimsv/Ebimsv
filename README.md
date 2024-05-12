@@ -29,11 +29,11 @@
 <p align="justify"> I am dedicated to continuous learning and growth, and I am excited to contribute to the advancement of artificial intelligence and its applications in the years to come.</p>
 
 ## 📕  Latest Blog Posts
+- [Machine Learning Series: Day 15 — KNN — Part 1](https://medium.com/@ebimsv/machine-learning-series-day-15-knn-part-1-3928fdc151e2)
 - [Machine Learning Series: Day 14 — Logistic Regression (Part 3 — implementation)](https://medium.com/@ebimsv/day-14-logistic-regression-part-3-implementation-bac471637e07)
 - [Machine Learning Series: Day 13 — Logistic Regression (Part 2)](https://medium.com/@ebimsv/machine-learning-series-day-13-logistic-regression-part-2-cea53d64934f)
 - [Machine Learning Series: Day 12 — Logistic Regression (Part 1)](https://medium.com/@ebimsv/machine-learning-series-day-12-logistic-regression-part-1-ce0192badac0)
 - [Machine Learning Series: Day 11 — Different Types of Learning in ML](https://medium.com/@ebimsv/machine-learning-series-day-11-different-types-of-learning-in-ml-cb72bc16a597)
-- [Machine Learning Series: Day 10 — Bias Variance Trade-off](https://medium.com/@ebimsv/machine-learning-series-day-10-bias-variance-trade-off-78174d54a378)
   
 ## Github stats
 
