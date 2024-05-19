@@ -30,7 +30,7 @@
 
 ## 📕  Latest Blog Posts
 - [Machine Learning Series: Day 19 — Exploring PMF, PDF](https://medium.com/@ebimsv/ml-series-day-19-exploring-pmf-pdf-e0030b32fab0)
-- [Machine Learning Series: Day 18- Advanced Probability Theory](https://medium.com/@ebimsv/ml-series-day-18-advanced-probability-theory-conditional-probability-random-variables-and-25ab57cb402c)
+- [Machine Learning Series: Day 18 — Advanced Probability Theory](https://medium.com/@ebimsv/ml-series-day-18-advanced-probability-theory-conditional-probability-random-variables-and-25ab57cb402c)
 - [Machine Learning Series: Day 17 — Essential Probability Concepts](https://medium.com/@ebimsv/ml-series-day-17-essential-probability-concepts-from-sample-space-to-probability-rules-962ba5e3dfc9)
 - [Machine Learning Series: Day 16 — Improving KNN Efficiency](https://medium.com/@ebimsv/ml-series-day-16-improving-knn-efficiency-using-kd-trees-and-ball-trees-for-faster-algorithms-99ece01a408c)
 - [Machine Learning Series: Day 15 — KNN — Part 1](https://medium.com/@ebimsv/machine-learning-series-day-15-knn-part-1-3928fdc151e2)
