@@ -29,13 +29,13 @@
 <p align="justify"> I am dedicated to continuous learning and growth, and I am excited to contribute to the advancement of artificial intelligence and its applications in the years to come.</p>
 
 ## 📕  Latest Blog Posts
-- [Machine Learning Series: Day 20 — Bernoulli Distribution](https://medium.com/@ebimsv/ml-series-day-20-discrete-probability-distribution-bernoulli-distribution-2bf97c370c93)
+
+- [Machine Learning Series: Day 22 — Discrete Probability Distribution (Multinoulli Distribution)](https://medium.com/@ebimsv/ml-series-day-22-discrete-probability-distribution-multinoulli-distribution-41241463ed80)
+- [Machine Learning Series: Day 21 — Discrete Probability Distribution (Binomial Distribution)](https://medium.com/@ebimsv/ml-series-day-21-discrete-probability-distribution-binomial-distribution-95a66d41b18f)
+- [Machine Learning Series: Day 20 — Discrete Probability Distribution (Bernoulli Distribution)](https://medium.com/@ebimsv/ml-series-day-20-discrete-probability-distribution-bernoulli-distribution-2bf97c370c93)
 - [Machine Learning Series: Day 19 — Exploring PMF, PDF](https://medium.com/@ebimsv/ml-series-day-19-exploring-pmf-pdf-e0030b32fab0)
 - [Machine Learning Series: Day 18 — Advanced Probability Theory](https://medium.com/@ebimsv/ml-series-day-18-advanced-probability-theory-conditional-probability-random-variables-and-25ab57cb402c)
-- [Machine Learning Series: Day 17 — Essential Probability Concepts](https://medium.com/@ebimsv/ml-series-day-17-essential-probability-concepts-from-sample-space-to-probability-rules-962ba5e3dfc9)
-- [Machine Learning Series: Day 16 — Improving KNN Efficiency](https://medium.com/@ebimsv/ml-series-day-16-improving-knn-efficiency-using-kd-trees-and-ball-trees-for-faster-algorithms-99ece01a408c)
 
-  
 ## Github stats
 
 <img src='https://github-readme-stats.vercel.app/api?username=ebimsv&show_icons=true&theme=dracula)'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ebimsv&card_height=250&theme=dracula&hide_border=false&include_all_commits=false&count_private=falselayout=compact' alt="Ebi's Top Languages" align="right" width="220"/>
