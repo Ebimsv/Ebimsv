@@ -29,12 +29,11 @@
 <p align="justify"> I am dedicated to continuous learning and growth, and I am excited to contribute to the advancement of artificial intelligence and its applications in the years to come.</p>
 
 ## 📕  Latest Blog Posts
-
+- [Machine Learning Series: Day 25 — Continuous Probability Distribution (Gaussian Distribution)](https://medium.com/@ebimsv/ml-series-day-25-continuous-probability-distribution-gaussian-distribution-4569f06a48e1)
+- [Machine Learning Series: Day 24 — Discrete Probability Distribution (Poisson Distribution)](https://medium.com/@ebimsv/ml-series-day-24-discrete-probability-distribution-poisson-distribution-b17babb8aaa9)
+- [Machine Learning Series: Day 23 — Discrete Probability Distribution (Multinomial Distribution)](https://medium.com/@ebimsv/ml-series-day-23-discrete-probability-distribution-multinomial-distribution-89d975512529)
 - [Machine Learning Series: Day 22 — Discrete Probability Distribution (Multinoulli Distribution)](https://medium.com/@ebimsv/ml-series-day-22-discrete-probability-distribution-multinoulli-distribution-41241463ed80)
 - [Machine Learning Series: Day 21 — Discrete Probability Distribution (Binomial Distribution)](https://medium.com/@ebimsv/ml-series-day-21-discrete-probability-distribution-binomial-distribution-95a66d41b18f)
-- [Machine Learning Series: Day 20 — Discrete Probability Distribution (Bernoulli Distribution)](https://medium.com/@ebimsv/ml-series-day-20-discrete-probability-distribution-bernoulli-distribution-2bf97c370c93)
-- [Machine Learning Series: Day 19 — Exploring PMF, PDF](https://medium.com/@ebimsv/ml-series-day-19-exploring-pmf-pdf-e0030b32fab0)
-- [Machine Learning Series: Day 18 — Advanced Probability Theory](https://medium.com/@ebimsv/ml-series-day-18-advanced-probability-theory-conditional-probability-random-variables-and-25ab57cb402c)
 
 ## Github stats
 
