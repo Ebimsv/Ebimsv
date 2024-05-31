@@ -30,10 +30,10 @@
 
 ## 📕  Latest Blog Posts
 - [Machine Learning Series: Day 25 — Continuous Probability Distribution (Gaussian Distribution)](https://medium.com/@ebimsv/ml-series-day-25-continuous-probability-distribution-gaussian-distribution-4569f06a48e1)
-- [Machine Learning Series: Day 24 — Discrete Probability Distribution (Poisson Distribution)](https://medium.com/@ebimsv/ml-series-day-24-discrete-probability-distribution-poisson-distribution-b17babb8aaa9)
-- [Machine Learning Series: Day 23 — Discrete Probability Distribution (Multinomial Distribution)](https://medium.com/@ebimsv/ml-series-day-23-discrete-probability-distribution-multinomial-distribution-89d975512529)
-- [Machine Learning Series: Day 22 — Discrete Probability Distribution (Multinoulli Distribution)](https://medium.com/@ebimsv/ml-series-day-22-discrete-probability-distribution-multinoulli-distribution-41241463ed80)
-- [Machine Learning Series: Day 21 — Discrete Probability Distribution (Binomial Distribution)](https://medium.com/@ebimsv/ml-series-day-21-discrete-probability-distribution-binomial-distribution-95a66d41b18f)
+- [Machine Learning Series: Day 26 — Continuous Probability Distribution (Uniform Distribution)](https://medium.com/@ebimsv/ml-series-day-26-continuous-probability-distribution-uniform-distribution-b153e33b700c)
+- [Machine Learning Series: Day 27 — Continuous Probability Distribution (Gamma Distribution)](https://medium.com/@ebimsv/ml-series-day-27-continuous-probability-distribution-gamma-distribution-033a52dd88df)
+- [Machine Learning Series: Day 28 — Continuous Probability Distribution (Exponential Distribution)](https://medium.com/@ebimsv/ml-series-day-28-continuous-probability-distribution-exponential-distribution-79ab8a60c030)
+- [Machine Learning Series: Day 29 — Continuous Probability Distribution (Laplacian Distribution)](https://medium.com/@ebimsv/ml-series-day-29-continuous-probability-distribution-laplacian-distribution-3969dcc780ef)
 
 ## Github stats
 
