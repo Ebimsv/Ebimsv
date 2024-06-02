@@ -29,11 +29,11 @@
 <p align="justify"> I am dedicated to continuous learning and growth, and I am excited to contribute to the advancement of artificial intelligence and its applications in the years to come.</p>
 
 ## 📕  Latest Blog Posts
-- [Machine Learning Series: Day 25 — Continuous Probability Distribution (Gaussian Distribution)](https://medium.com/@ebimsv/ml-series-day-25-continuous-probability-distribution-gaussian-distribution-4569f06a48e1)
-- [Machine Learning Series: Day 26 — Continuous Probability Distribution (Uniform Distribution)](https://medium.com/@ebimsv/ml-series-day-26-continuous-probability-distribution-uniform-distribution-b153e33b700c)
 - [Machine Learning Series: Day 27 — Continuous Probability Distribution (Gamma Distribution)](https://medium.com/@ebimsv/ml-series-day-27-continuous-probability-distribution-gamma-distribution-033a52dd88df)
 - [Machine Learning Series: Day 28 — Continuous Probability Distribution (Exponential Distribution)](https://medium.com/@ebimsv/ml-series-day-28-continuous-probability-distribution-exponential-distribution-79ab8a60c030)
 - [Machine Learning Series: Day 29 — Continuous Probability Distribution (Laplacian Distribution)](https://medium.com/@ebimsv/ml-series-day-29-continuous-probability-distribution-laplacian-distribution-3969dcc780ef)
+- [Machine Learning Series: Day 30 — Joint Distribution, Marginal Distribution, and Conditional Distribution](https://medium.com/@ebimsv/ml-series-day-30-joint-distribution-marginal-distribution-and-conditional-distribution-2794b600680b)
+- [Machine Learning Series: Day 31 — Covariance and Correlation in Machine Learning](https://medium.com/@ebimsv/ml-series-day-31-covariance-and-correlation-in-machine-learning-fbb55820f4d9)
 
 ## Github stats
 
