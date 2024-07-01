@@ -14,9 +14,9 @@
 
 ------------------------
 ### Interests:
-* Computer Vision
+* Bioinformatics
+* Protein Language Models
 * NLP
-* Deep Learning Applications
 ------------------------
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=ebimsv&color=36b812"> <img align="right" alt="Stars" src="https://img.shields.io/github/stars/ebimsv?style=social"> </h2>
@@ -29,11 +29,11 @@
 <p align="justify"> I am dedicated to continuous learning and growth, and I am excited to contribute to the advancement of artificial intelligence and its applications in the years to come.</p>
 
 ## 📕  Latest Blog Posts
-- [Machine Learning Series: Day 27 — Continuous Probability Distribution (Gamma Distribution)](https://medium.com/@ebimsv/ml-series-day-27-continuous-probability-distribution-gamma-distribution-033a52dd88df)
-- [Machine Learning Series: Day 28 — Continuous Probability Distribution (Exponential Distribution)](https://medium.com/@ebimsv/ml-series-day-28-continuous-probability-distribution-exponential-distribution-79ab8a60c030)
-- [Machine Learning Series: Day 29 — Continuous Probability Distribution (Laplacian Distribution)](https://medium.com/@ebimsv/ml-series-day-29-continuous-probability-distribution-laplacian-distribution-3969dcc780ef)
-- [Machine Learning Series: Day 30 — Joint Distribution, Marginal Distribution, and Conditional Distribution](https://medium.com/@ebimsv/ml-series-day-30-joint-distribution-marginal-distribution-and-conditional-distribution-2794b600680b)
-- [Machine Learning Series: Day 31 — Covariance and Correlation in Machine Learning](https://medium.com/@ebimsv/ml-series-day-31-covariance-and-correlation-in-machine-learning-fbb55820f4d9)
+- [Machine Learning Series: Day 38 — Estimation Methods: Method of Moments](https://medium.com/@ebimsv/ml-series-day-38-estimation-methods-method-of-moments-f0096b3019c7)
+- [Machine Learning Series: Day 37 — Estimation in Statistics](https://medium.com/@ebimsv/ml-series-day-37-estimation-in-statistics-part-1-6d25de2f68fb)
+- [Machine Learning Series: Day 36 — Types of Sampling in Statistics](https://medium.com/@ebimsv/ml-series-day-36-types-of-sampling-in-statistics-57408f28beb4)
+- [Machine Learning Series: Day 35 — Data Visualization in Machine Learning](https://medium.com/@ebimsv/ml-series-day-35-data-visualization-in-machine-learning-91d316516bb3)
+- [Machine Learning Series: Day 34 — Descriptive Statistics: Measures of Dispersion](https://medium.com/@ebimsv/ml-series-day-34-descriptive-statistics-measures-of-dispersion-643b599585dd)
 
 ## Github stats
 
