@@ -5,9 +5,9 @@ Expert in architecting and deploying cutting-edge AI models, with a focus on fin
 
 | Media  | Summary |
 | ------------- | ------------- |
-| [Medium ](https://medium.com/@ebimsv/)  | My machine learning blog posts |
-| [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ) | My papers and research output |
-| [LinkedIn ](https://www.linkedin.com/in/ebiimsv/)  | I share data science interview questions and practical machine learning tips|
+| [Medium ](https://medium.com/@ebimsv/) | I share insights and practical knowledge on machine learning through my blog posts |
+| [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ) | Featuring my research publications and contributions to the field of deep learning |
+| [LinkedIn ](https://www.linkedin.com/in/ebiimsv/)  | Sharing insights and updates on deep learning innovations and AI model development |
 ---------------------
 
 [![Scholar Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ebimsv)
