@@ -1,16 +1,22 @@
-<h1> Hi, I'm Ebi 👨🏻‍💻 </h1>
+<h1> Hi, I'm Ebrahim Mousavi 👨🏻‍💻 </h1>
 
-### Connect with me:  
+Expert in architecting and deploying cutting-edge AI models, with a focus on fine-tuning and optimizing large language models and deep neural networks for sophisticated natural language processing and computer vision applications.
+<h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ebiimsv/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ebimsv/)
-[![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-blue?logo=google-scholar&logoColor=white&style=flat)](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ)
+| Media  | Summary |
+| ------------- | ------------- |
+| [Medium ](https://medium.com/@ebimsv/)  | My machine learning blog posts |
+| [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ) | My papers and research output |
+| [LinkedIn ](https://www.linkedin.com/in/ebiimsv/)  | I share data science interview questions and practical machine learning tips|
+---------------------
+
 [![Scholar Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ebimsv)
 [![Scholar Badge](https://img.shields.io/badge/Exercism-009CAB?style=flat&logo=exercism&logoColor=white)](https://exercism.org/profiles/intro)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ebiimsv/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ebiimsv)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ebiimsv)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ebimsv0501@gmail.com)
+
 
 ------------------------
 ### Interests:
