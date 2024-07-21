@@ -35,11 +35,12 @@ Expert in architecting and deploying cutting-edge AI models, with a focus on fin
 <p align="justify"> I am dedicated to continuous learning and growth, and I am excited to contribute to the advancement of artificial intelligence and its applications in the years to come.</p>
 
 ## 📕  Latest Blog Posts
-- [Machine Learning Series: Day 38 — Estimation Methods: Method of Moments](https://medium.com/@ebimsv/ml-series-day-38-estimation-methods-method-of-moments-f0096b3019c7)
-- [Machine Learning Series: Day 37 — Estimation in Statistics](https://medium.com/@ebimsv/ml-series-day-37-estimation-in-statistics-part-1-6d25de2f68fb)
-- [Machine Learning Series: Day 36 — Types of Sampling in Statistics](https://medium.com/@ebimsv/ml-series-day-36-types-of-sampling-in-statistics-57408f28beb4)
-- [Machine Learning Series: Day 35 — Data Visualization in Machine Learning](https://medium.com/@ebimsv/ml-series-day-35-data-visualization-in-machine-learning-91d316516bb3)
-- [Machine Learning Series: Day 34 — Descriptive Statistics: Measures of Dispersion](https://medium.com/@ebimsv/ml-series-day-34-descriptive-statistics-measures-of-dispersion-643b599585dd)
+- [Machine Learning Series: Day 44 —  Advanced Applications of Hypothesis Testing](https://medium.com/@ebimsv/ml-series-day-44-advanced-applications-of-hypothesis-testing-in-machine-learning-5b22a7d36bb6)
+- [Machine Learning Series: Day 43 — Parametric vs Non-Parametric Tests](https://medium.com/@ebimsv/ml-series-day-43-parametric-vs-non-parametric-tests-5c48d0b271f9)
+- [Machine Learning Series: Day 42 — Statistical Tests for Model Comparison](https://medium.com/@ebimsv/ml-series-day-42-statistical-tests-for-model-comparison-4f5cf63da74a)
+- [Machine Learning Series: Day 41 —  Introduction to Hypothesis Testing](https://medium.com/@ebimsv/ml-series-day-41-introduction-to-hypothesis-testing-5475282a439c)
+- [Machine Learning Series: Day 40 — Simple Problem with MLE](https://medium.com/@ebimsv/ml-series-day-40-simple-problem-with-mle-1459c0947cb2)
+
 
 ## Github stats
 
