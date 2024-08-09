@@ -84,7 +84,6 @@ ___
 
 ---
 
-## My Skills
 ### Libraries/Languages/Frameworks I'm good at:
 <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white'/> <img src='https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue'/> <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white'/>
 <img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black'/>
@@ -96,16 +95,22 @@ ___
 <img src='https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white'/>
 <img src='https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white'/>
 
+---
+
 ### Projects I'm Working these days:
 <img src='https://img.shields.io/badge/LLM-Deep%20Learning%20for%20Language%20Modeling-blue?style=flat)'/> 
 <img src='https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue?style=flat'/> 
 <img src='https://img.shields.io/badge/Medical%20Segmentation-Image%20Analysis%20in%20Medicine-blue?style=flat'/>
+
+---
 
 ### Papers that I collaborated in:
 [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://link.springer.com/article/10.1007/s40692-023-00303-w)
 [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightwhite.svg)](https://www.sciencedirect.com/science/article/abs/pii/S026772612300177X)
 [![Paper](https://img.shields.io/badge/Arxiv-2021-bright.svg)](https://arxiv.org/abs/2111.14262)
 [![Paper](https://img.shields.io/badge/Arxiv-2022-bright.svg)](https://arxiv.org/abs/2108.04893)
+
+---
 
 ### Show your support:
 If you appreciate my work, please consider following and liking me 😉.
