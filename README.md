@@ -4,17 +4,18 @@
 </a> 
   
 <br/>
+
 <a href="https://www.linkedin.com/in/ebimsv/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
+<a href="https://drive.google.com/file/d/18KCwj3AZBct9nFeb21rRQYmZL-TNiE8x/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
 <a href='https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <a href="https://www.kaggle.com/ebimsv">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white">
-</a>
-<a href="https://exercism.org/profiles/intro">
-    <img src="https://img.shields.io/badge/Exercism-009CAB?style=flat&logo=exercism&logoColor=white">
 </a>
 <a href="https://www.instagram.com/ebiimsv/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
@@ -25,9 +26,13 @@
 <a href="https://t.me/ebiimsv">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
 </a>
+
 <a href="mailto:ebimsv0501@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
+
+<br/>
+
 <a href="https://github.com/ebimsv">
     <img src="https://github-stats-alpha.vercel.app/api?username=ebimsv&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
