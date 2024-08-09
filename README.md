@@ -2,7 +2,6 @@
 <a href="https://github.com/ebimsv">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Ebrahim+Mousavi;Researcher+%7C+ML+Engineer;Generative AI+%7C+Computer+Vision+%7C+NLP+%7C+Bioinformatics; Looking+for+PhD+Position in GenAI" alt="Typing SVG"/>
 </a> 
-
   
 <br/>
 <a href="https://www.linkedin.com/in/ebimsv/">
@@ -29,17 +28,13 @@
 <a href="mailto:ebimsv0501@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
-
 <a href="https://github.com/ebimsv">
     <img src="https://github-stats-alpha.vercel.app/api?username=ebimsv&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
 
-<a>
-<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=ebimsv&color=36b812"> <img align="right" alt="Stars" src="https://img.shields.io/github/stars/ebimsv?style=social">
-</a>
-
 ___
+<h3>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=ebimsv&color=36b812"> <img align="right" alt="Stars" src="https://img.shields.io/github/stars/ebimsv?style=social"> </h3>
 
 - 🎓 Looking for a PhD position in NLP & Computer Vision.
 - 🔬 I am a Research Assistant at the LBB Laboratory of Systems Biology and Bioinformatics, University of Tehran, working with Prof. Ali Masoudi-Nejad [Google Scholar](https://scholar.google.com/citations?user=KsYyCLAAAAAJ&hl=en)
@@ -90,9 +85,7 @@ ___
 ---
 
 ## My Skills
-
 ### Libraries/Languages/Frameworks I'm good at:
-
 <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white'/> <img src='https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue'/> <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white'/>
 <img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black'/>
 <img src='https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white'/>
@@ -104,21 +97,20 @@ ___
 <img src='https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white'/>
 
 ### Projects I'm Working these days:
-
 <img src='https://img.shields.io/badge/LLM-Deep%20Learning%20for%20Language%20Modeling-blue?style=flat)'/> 
 <img src='https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue?style=flat'/> 
 <img src='https://img.shields.io/badge/Medical%20Segmentation-Image%20Analysis%20in%20Medicine-blue?style=flat'/>
 
 ### Papers that I collaborated in:
-
 [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://link.springer.com/article/10.1007/s40692-023-00303-w)
 [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightwhite.svg)](https://www.sciencedirect.com/science/article/abs/pii/S026772612300177X)
 [![Paper](https://img.shields.io/badge/Arxiv-2021-bright.svg)](https://arxiv.org/abs/2111.14262)
 [![Paper](https://img.shields.io/badge/Arxiv-2022-bright.svg)](https://arxiv.org/abs/2108.04893)
 
 ### Show your support:
-
 If you appreciate my work, please consider following and liking me 😉.
+
+---
 
 <details>
 <summary>📈 Stats</summary>
@@ -130,5 +122,4 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ebimsv&theme=dracula)
 
 <br>
-
 </details>
