@@ -42,7 +42,8 @@ ___
 <h3>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=ebimsv&color=36b812"> <img align="right" alt="Stars" src="https://img.shields.io/github/stars/ebimsv?style=social"> </h3>
 
 - 🎓 Looking for a PhD position in NLP & Computer Vision.
-- 🔬 I am a Research Assistant at the LBB Laboratory of Systems Biology and Bioinformatics, University of Tehran, working with Prof. Ali Masoudi-Nejad [Google Scholar](https://scholar.google.com/citations?user=KsYyCLAAAAAJ&hl=en)
+- 🔬 May 2024 – Present: Research Assistant at the LBB Laboratory of Systems Biology and Bioinformatics, University of Tehran, supervised by Prof. Ali Masoudi-Nejad. [Google Scholar](https://scholar.google.com/citations?user=KsYyCLAAAAAJ&hl=en)
+- 📚 March 2020 – Present: Research Assistant and Teaching Assistant at Tarbiat Modares University, Tehran, Iran, supervised by Prof. Gholam Ali Montazer. [Google Scholar](https://scholar.google.com/citations?user=YFobHWAAAAAJ&hl=en)
 - 🧬 Currently working on Protein Language Models.
 
 ___
