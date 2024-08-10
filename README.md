@@ -49,16 +49,27 @@ ___
 ### 🖥️ Open-Source Projects
 
 <table>
-<tr><th>Machine Learning</th></tr>
+<tr><th>Machine Learning Repositories</th><th>AI Tutorials: Theory and Code Combined</th></tr>
 <tr><td>
 
-| Title                                                                                    | Stars                                                                                                                                | Technologies                                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Machine_Learning_Course](https://github.com/Ebimsv/Machine_Learning_Course)             | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Machine_Learning_Course?style=flat-square&labelColor=black"/>       | ![Sklearn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)                                                                        |
-| [Facial_Age_estimation_PyTorch](https://github.com/ebimsv/Facial_Age_estimation_PyTorch) | <img alt="Stars" src="https://img.shields.io/github/stars/Ebimsv/Facial_Age_estimation_PyTorch?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=OpenCV&logoColor=white) |
-| [Torch-Linguist](https://github.com/Ebimsv/Torch-Linguist)                               | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Torch-Linguist?style=flat-square&labelColor=black"/>                | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)                                                          
+| Title                                                                                     | Stars                                                                                                                                | Technologies                                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Machine_Learning_Course](https://github.com/Ebimsv/Machine_Learning_Course)              | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Machine_Learning_Course?style=flat-square&labelColor=black"/>       | ![Sklearn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)                                                                     |
+| [Facial_Age_estimation_PyTorch](https://github.com/ebimsv/Facial_Age_estimation_PyTorch)  | <img alt="Stars" src="https://img.shields.io/github/stars/Ebimsv/Facial_Age_estimation_PyTorch?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=OpenCV&logoColor=white) |
+| [Torch-Linguist](https://github.com/Ebimsv/Torch-Linguist)                                | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Torch-Linguist?style=flat-square&labelColor=black"/>                | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)
+| [ChestCancerClassification-PyTorch](https://github.com/Ebimsv/ChestCancerClassification-PyTorch) | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/ChestCancerClassification-PyTorch?style=flat-square&labelColor=black"/>  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) | 
+[Racism-Xenophobia-Classifier](https://github.com/Ebimsv/Racism-Xenophobia-Classifier) | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Racism-Xenophobia-Classifier?style=flat-square&labelColor=black"/> |  ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
+
+                                                     
 
 </td><td>
+
+| Title                                                                                                                             | Tutorial Count |
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------|
+| [ML Series](https://medium.com/@ebimsv/machine-learning-series-day-1-introduction-c3b6e8410a1e)                                   | 44                  |
+| [Complex Network Series](https://medium.com/@ebimsv/complex-network-series-part-1-an-overview-ddd9e0b6ec3a)                       | 7                   |
+| [Mastering Classes in Python](https://medium.com/@ebimsv/mastering-classes-in-python-1-introduction-to-classes-bd5c0170dcfd)      | 5                   |
+
 </td></tr> </table>
 
 ---
