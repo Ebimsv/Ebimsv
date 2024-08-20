@@ -70,6 +70,8 @@ ___
 | [ML Series](https://medium.com/@ebimsv/machine-learning-series-day-1-introduction-c3b6e8410a1e)                                   | 44                  |
 | [Complex Network Series](https://medium.com/@ebimsv/complex-network-series-part-1-an-overview-ddd9e0b6ec3a)                       | 7                   |
 | [Mastering Classes in Python](https://medium.com/@ebimsv/mastering-classes-in-python-1-introduction-to-classes-bd5c0170dcfd)      | 5                   |
+| [Mastering Matplotlib](https://medium.com/@ebimsv/mastering-matplotlib-part-9-integrating-matplotlib-with-other-libraries-ba93071ec8bf) | 9             |
+| [Mastering Pandas]() |                                                                                                                                  |
 
 </td></tr> </table>
 
