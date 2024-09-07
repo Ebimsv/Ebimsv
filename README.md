@@ -72,7 +72,7 @@
 | [Mastering Classes in Python](https://medium.com/@ebimsv/mastering-classes-in-python-1-introduction-to-classes-bd5c0170dcfd)               | 5              |
 | [Mastering Matplotlib](https://medium.com/@ebimsv/mastering-matplotlib-part-9-integrating-matplotlib-with-other-libraries-ba93071ec8bf)    | 9              |
 | [Mastering Pandas](https://medium.com/@ebimsv/mastering-pandas-part-5-data-aggregation-and-grouping-d5f1f2df2114)                          | 5              |
-| [Mastering Linear Algebra](https://medium.com/@ebimsv/mastering-linear-algebra-part-2-fundamental-concepts-of-linear-algebra-5216daafe203) | 2              |
+| [Mastering Linear Algebra](https://medium.com/@ebimsv/mastering-linear-algebra-part-6-eigenvalues-and-eigenvectors-7927cab9a0ad)           | 6              |
 |                                                                                                                                            |
 
 </td></tr> </table>
