@@ -72,7 +72,7 @@
 | [Mastering Classes in Python](https://medium.com/@ebimsv/mastering-classes-in-python-1-introduction-to-classes-bd5c0170dcfd)               | 5              |
 | [Mastering Matplotlib](https://medium.com/@ebimsv/mastering-matplotlib-part-9-integrating-matplotlib-with-other-libraries-ba93071ec8bf)    | 9              |
 | [Mastering Pandas](https://medium.com/@ebimsv/mastering-pandas-part-5-data-aggregation-and-grouping-d5f1f2df2114)                          | 5              |
-| [Mastering Linear Algebra](https://medium.com/@ebimsv/mastering-linear-algebra-part-6-eigenvalues-and-eigenvectors-7927cab9a0ad)           | 6              |
+| [Mastering Linear Algebra](https://medium.com/@ebimsv/mastering-linear-algebra-part-7-eigen-decomposition-cf3c50308ba7)           | 8              |
 |                                                                                                                                            |
 
 </td></tr> </table>
@@ -91,17 +91,17 @@
 
 ### 📕 Latest Blog Posts
 
-- [Machine Learning Series: Day 44 —  Advanced Applications of Hypothesis Testing](https://medium.com/@ebimsv/ml-series-day-44-advanced-applications-of-hypothesis-testing-in-machine-learning-5b22a7d36bb6)
-- [Machine Learning Series: Day 43 — Parametric vs Non-Parametric Tests](https://medium.com/@ebimsv/ml-series-day-43-parametric-vs-non-parametric-tests-5c48d0b271f9)
-- [Machine Learning Series: Day 42 — Statistical Tests for Model Comparison](https://medium.com/@ebimsv/ml-series-day-42-statistical-tests-for-model-comparison-4f5cf63da74a)
+- [Mastering Linear Algebra: Part 7 — Eigen Decomposition](https://medium.com/@ebimsv/mastering-linear-algebra-part-7-eigen-decomposition-cf3c50308ba7)
+- [Mastering Linear Algebra: Part 6 — Eigenvalues and Eigenvectors](https://medium.com/@ebimsv/mastering-linear-algebra-part-6-eigenvalues-and-eigenvectors-7927cab9a0ad)
+- [Mastering Linear Algebra: Part 4 — Understanding Linear Transformations](https://medium.com/@ebimsv/mastering-linear-algebra-part-4-understanding-linear-transformations-and-their-geometric-363235e0a700)
 
 ---
 
 ### Interests:
 
-- Bioinformatics
+- Large Language Model (LLM)
 - Protein Language Models
-- NLP
+- Large vision model (LVM)
 
 ---
 
@@ -127,12 +127,13 @@
 
 ---
 
-### Papers that I collaborated in:
+### Papers that I collaborated on:
 
 [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://link.springer.com/article/10.1007/s40692-023-00303-w)
 [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightwhite.svg)](https://www.sciencedirect.com/science/article/abs/pii/S026772612300177X)
 [![Paper](https://img.shields.io/badge/Arxiv-2021-bright.svg)](https://arxiv.org/abs/2111.14262)
-[![Paper](https://img.shields.io/badge/Arxiv-2022-bright.svg)](https://arxiv.org/abs/2108.04893)
+[![Paper](https://img.shields.io/badge/Arxiv-2022-bright.svg)](https://arxiv.org/pdf/2108.04893)
+[![Paper](https://img.shields.io/badge/Arxiv-2022-bright.svg)](https://www.arxiv.org/pdf/2408.12619)
 
 ---
 
