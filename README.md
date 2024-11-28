@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/ebimsv/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="https://drive.google.com/file/d/18KCwj3AZBct9nFeb21rRQYmZL-TNiE8x/view?usp=drive_link">
+<a href="https://github.com/Ebimsv/ebimsv.github.io/blob/main/files/CV_Mousavi_PhD.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href='https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ' target="_blank">
