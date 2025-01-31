@@ -5,35 +5,35 @@
   
 <br/>
 
-<a href="https://www.linkedin.com/in/ebimsv/">
+<a href="https://www.linkedin.com/in/ebimsv/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="https://github.com/Ebimsv/ebimsv.github.io/blob/main/files/CV_Mousavi_PhD.pdf">
+<a href="https://github.com/Ebimsv/ebimsv.github.io/blob/main/files/CV_Mousavi_PhD.pdf" target="_blank">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href='https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
-<a href="https://www.kaggle.com/ebimsv">
+<a href="https://www.kaggle.com/ebimsv" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white">
 </a>
-<a href="https://www.instagram.com/ebiimsv/">
+<a href="https://www.instagram.com/ebiimsv/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
 </a>
-<a href="https://twitter.com/ebiimsv">
+<a href="https://twitter.com/ebiimsv" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
 </a>
-<a href="https://t.me/ebiimsv">
+<a href="https://t.me/ebiimsv" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
 </a>
 
-<a href="mailto:ebimsv0501@gmail.com">
+<a href="mailto:ebimsv0501@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
 
 <br/>
 
-<a href="https://github.com/ebimsv">
+<a href="https://github.com/ebimsv" target="_blank">
     <img src="https://github-stats-alpha.vercel.app/api?username=ebimsv&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
@@ -55,33 +55,33 @@
 <tr><th>AI Tutorials: Theory and Code Combined</th><th>Machine Learning Repositories</th></tr>  
 <tr><td>
 
-| Title                                                                                                                                                      | Tutorial Count  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Machine Learning Series](https://medium.com/@ebimsv/machine-learning-series-day-1-introduction-c3b6e8410a1e)                                              | 45              |
-| [Probability & Statistics](https://medium.com/@ebimsv/ml-series-day-17-essential-probability-concepts-from-sample-space-to-probability-rules-962ba5e3dfc9) | 28              |
-| [Linear Algebra for AI](https://medium.com/@ebimsv/mastering-linear-algebra-part-1-introduction-to-linear-algebra-in-machine-learning-fafcae1a5879)        | 8               |
-| [Python for AI](https://medium.com/@ebimsv/mastering-python-for-ai-week-1-introduction-to-python-977cbbb659d7)                                             | 5               |
-| [Mastering Classes in Python](https://medium.com/@ebimsv/mastering-classes-in-python-1-introduction-to-classes-bd5c0170dcfd)                               | 5               |
-| [Mastering Pandas](https://medium.com/@ebimsv/mastering-pandas-part-1-introduction-to-pandas-fc7dc3ad7ee0)                                                 | 5               |
-| [Mastering Matplotlib](https://medium.com/@ebimsv/mastering-matplotlib-1-an-introduction-and-basic-plotting-techniques-228df6216bee)                       | 9               |
-| [Complex Network Series](https://medium.com/@ebimsv/complex-network-series-part-1-an-overview-ddd9e0b6ec3a)                                                | 7               |
-| [NLP Series](https://medium.com/@ebimsv/nlp-series-day-1-foundations-of-natural-language-processing-1187cb56c26d)                                          | 5 (In progress) |
-| [Mastering CNNs in PyTorch](https://medium.com/@ebimsv/mastering-cnns-in-pytorch-week-1-fundamentals-of-convolutional-neural-networks-cnns-f89e4e3fa12b)   | 2 (In progress) |
+| Title                                                                                                                                                                                                           | Tutorial Count  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| <a href="https://medium.com/@ebimsv/machine-learning-series-day-1-introduction-c3b6e8410a1e" target="_blank" rel="noopener noreferrer">Machine Learning Series</a>                                              | 45              |
+| <a href="https://medium.com/@ebimsv/ml-series-day-17-essential-probability-concepts-from-sample-space-to-probability-rules-962ba5e3dfc9" target="_blank" rel="noopener noreferrer">Probability & Statistics</a> | 28              |
+| <a href="https://medium.com/@ebimsv/mastering-linear-algebra-part-1-introduction-to-linear-algebra-in-machine-learning-fafcae1a5879" target="_blank" rel="noopener noreferrer">Linear Algebra for AI</a>        | 8               |
+| <a href="https://medium.com/@ebimsv/mastering-python-for-ai-week-1-introduction-to-python-977cbbb659d7" target="_blank" rel="noopener noreferrer">Python for AI</a>                                             | 5               |
+| <a href="https://medium.com/@ebimsv/mastering-classes-in-python-1-introduction-to-classes-bd5c0170dcfd" target="_blank" rel="noopener noreferrer">Mastering Classes in Python</a>                               | 5               |
+| <a href="https://medium.com/@ebimsv/mastering-pandas-part-1-introduction-to-pandas-fc7dc3ad7ee0" target="_blank" rel="noopener noreferrer">Mastering Pandas</a>                                                 | 5               |
+| <a href="https://medium.com/@ebimsv/mastering-matplotlib-1-an-introduction-and-basic-plotting-techniques-228df6216bee" target="_blank" rel="noopener noreferrer">Mastering Matplotlib</a>                       | 9               |
+| <a href="https://medium.com/@ebimsv/complex-network-series-part-1-an-overview-ddd9e0b6ec3a" target="_blank" rel="noopener noreferrer">Complex Network Series</a>                                                | 7               |
+| <a href="https://medium.com/@ebimsv/nlp-series-day-1-foundations-of-natural-language-processing-1187cb56c26d" target="_blank" rel="noopener noreferrer">NLP Series</a>                                          | 5 (In progress) |
+| <a href="https://medium.com/@ebimsv/mastering-cnns-in-pytorch-week-1-fundamentals-of-convolutional-neural-networks-cnns-f89e4e3fa12b" target="_blank" rel="noopener noreferrer">Mastering CNNs in PyTorch</a>   | 2 (In progress) |
 
 </td><td>
 
-| Title                                                                                  | Stars                                                                                                                                    | Technologies                                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Machine_Learning_Course](https://github.com/Ebimsv/Machine_Learning_Course)           | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Machine_Learning_Course?style=flat-square&labelColor=black"/>           | ![Sklearn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
-| [Facial_Age_estimation](https://github.com/ebimsv/Facial_Age_estimation_PyTorch)       | <img alt="Stars" src="https://img.shields.io/github/stars/Ebimsv/Facial_Age_estimation_PyTorch?style=flat-square&labelColor=black"/>     | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=OpenCV&logoColor=white)          |
-| [Torch-Linguist](https://github.com/Ebimsv/Torch-Linguist)                             | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Torch-Linguist?style=flat-square&labelColor=black"/>                    | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TorchText](https://img.shields.io/badge/TorchText-black?style=flat-square&logo=TorchText)                 |
-| [CancerClassification](https://github.com/Ebimsv/ChestCancerClassification-PyTorch)    | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/ChestCancerClassification-PyTorch?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)                             |
-| [Racism-Xenophobia-Classifier](https://github.com/Ebimsv/Racism-Xenophobia-Classifier) | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Racism-Xenophobia-Classifier?style=flat-square&labelColor=black"/>      | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Transformers-yellow)                               |
-| -                                                                                      | -                                                                                                                                        | -                                                                                                                                                                                                 |
-| -                                                                                      | -                                                                                                                                        | -                                                                                                                                                                                                 |
-| -                                                                                      | -                                                                                                                                        | -                                                                                                                                                                                                 |
-| -                                                                                      | -                                                                                                                                        | -                                                                                                                                                                                                 |
-| -                                                                                      | -                                                                                                                                        | -                                                                                                                                                                                                 |
+| Title                                                                                                                                       | Stars                                                                                                                                    | Technologies                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/Ebimsv/Machine_Learning_Course" target="_blank" rel="noopener noreferrer">Machine_Learning_Course</a>           | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Machine_Learning_Course?style=flat-square&labelColor=black"/>           | ![Sklearn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
+| <a href="https://github.com/ebimsv/Facial_Age_estimation_PyTorch" target="_blank" rel="noopener noreferrer">Facial_Age_estimation</a>       | <img alt="Stars" src="https://img.shields.io/github/stars/Ebimsv/Facial_Age_estimation_PyTorch?style=flat-square&labelColor=black"/>     | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=OpenCV&logoColor=white)          |
+| <a href="https://github.com/Ebimsv/Torch-Linguist" target="_blank" rel="noopener noreferrer">Torch-Linguist</a>                             | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Torch-Linguist?style=flat-square&labelColor=black"/>                    | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TorchText](https://img.shields.io/badge/TorchText-black?style=flat-square&logo=TorchText)                 |
+| <a href="https://github.com/Ebimsv/ChestCancerClassification-PyTorch" target="_blank" rel="noopener noreferrer">CancerClassification</a>    | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/ChestCancerClassification-PyTorch?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)                             |
+| <a href="https://github.com/Ebimsv/Racism-Xenophobia-Classifier" target="_blank" rel="noopener noreferrer">Racism-Xenophobia-Classifier</a> | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Racism-Xenophobia-Classifier?style=flat-square&labelColor=black"/>      | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Transformers-yellow)                               |
+| &nbsp;                                                                                                                                      | &nbsp;                                                                                                                                   | &nbsp;                                                                                                                                                                                            |
+| &nbsp;                                                                                                                                      | &nbsp;                                                                                                                                   | &nbsp;                                                                                                                                                                                            |
+| &nbsp;                                                                                                                                      | &nbsp;                                                                                                                                   | &nbsp;                                                                                                                                                                                            |
+| &nbsp;                                                                                                                                      | &nbsp;                                                                                                                                   | &nbsp;                                                                                                                                                                                            |
+| &nbsp;                                                                                                                                      | &nbsp;                                                                                                                                   | &nbsp;                                                                                                                                                                                            |
 
 </td></tr> </table>
 
