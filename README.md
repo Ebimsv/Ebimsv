@@ -65,15 +65,19 @@
 
 </td><td>
 
-| Title                                                                                                                                      | Tutorial Count |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
-| [ML Series](https://medium.com/@ebimsv/machine-learning-series-day-1-introduction-c3b6e8410a1e)                                            | 44             |
-| [Complex Network Series](https://medium.com/@ebimsv/complex-network-series-part-1-an-overview-ddd9e0b6ec3a)                                | 7              |
-| [Mastering Classes in Python](https://medium.com/@ebimsv/mastering-classes-in-python-1-introduction-to-classes-bd5c0170dcfd)               | 5              |
-| [Mastering Matplotlib](https://medium.com/@ebimsv/mastering-matplotlib-part-9-integrating-matplotlib-with-other-libraries-ba93071ec8bf)    | 9              |
-| [Mastering Pandas](https://medium.com/@ebimsv/mastering-pandas-part-5-data-aggregation-and-grouping-d5f1f2df2114)                          | 5              |
-| [Mastering Linear Algebra](https://medium.com/@ebimsv/mastering-linear-algebra-part-2-fundamental-concepts-of-linear-algebra-5216daafe203) | 2              |
-|                                                                                                                                            |
+| Title                                                                                                                                                      | Tutorial Count  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [Machine Learning Series](https://medium.com/@ebimsv/machine-learning-series-day-1-introduction-c3b6e8410a1e)                                              | 45              |
+| [NLP Series](https://medium.com/@ebimsv/nlp-series-day-1-foundations-of-natural-language-processing-1187cb56c26d)                                          | 5 (In progress) |
+| [Linear Algebra for AI](https://medium.com/@ebimsv/mastering-linear-algebra-part-1-introduction-to-linear-algebra-in-machine-learning-fafcae1a5879)        | 8               |
+| [Python for AI](https://medium.com/@ebimsv/mastering-python-for-ai-week-1-introduction-to-python-977cbbb659d7)                                             | 5               |
+| [Mastering Classes in Python](https://medium.com/@ebimsv/mastering-classes-in-python-1-introduction-to-classes-bd5c0170dcfd)                               | 5               |
+| [Complex Network Series](https://medium.com/@ebimsv/complex-network-series-part-1-an-overview-ddd9e0b6ec3a)                                                | 7               |
+| [Mastering Pandas](https://medium.com/@ebimsv/mastering-pandas-part-1-introduction-to-pandas-fc7dc3ad7ee0)                                                 | 5               |
+| [Mastering Matplotlib](https://medium.com/@ebimsv/mastering-matplotlib-1-an-introduction-and-basic-plotting-techniques-228df6216bee)                       | 9               |
+| [Probability & Statistics](https://medium.com/@ebimsv/ml-series-day-17-essential-probability-concepts-from-sample-space-to-probability-rules-962ba5e3dfc9) | 28              |
+| [Mastering CNNs in PyTorch](https://medium.com/@ebimsv/mastering-cnns-in-pytorch-week-1-fundamentals-of-convolutional-neural-networks-cnns-f89e4e3fa12b)   | 2 (In progress) |
+|                                                                                                                                                            |
 
 </td></tr> </table>
 
