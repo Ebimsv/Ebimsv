@@ -38,8 +38,6 @@
 </a>
 </p>
 
----
-
 <h3>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=ebimsv&color=36b812"> <img align="right" alt="Stars" src="https://img.shields.io/github/stars/ebimsv?style=social"> </h3>
 
 - 🎓 Looking for a PhD position in NLP & Computer Vision.
