@@ -38,13 +38,6 @@
 </a>
 </p>
 
-<!-- Snake Game Image, codes from @ann61c -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebimsv/ebimsv/snake-game/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebimsv/ebimsv/snake-game/github-contribution-grid-snake.svg">
-  <img height="96" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ebimsv/ebimsv/snake-game/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 <h3>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=ebimsv&color=36b812"> <img align="right" alt="Stars" src="https://img.shields.io/github/stars/ebimsv?style=social"> </h3>
