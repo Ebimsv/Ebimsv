@@ -55,7 +55,7 @@
 
 | Title                                                                                                                                                      | Tutorial Count  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Machine Learning Series](https://medium.com/@ebimsv/machine-learning-series-day-1-introduction-c3b6e8410a1e)                                              | 45              |
+| [Machine Learning Series](https://medium.com/@ebimsv/machine-learning-series-day-1-introduction-c3b6e8410a1e)                                              | 48              |
 | [Probability & Statistics](https://medium.com/@ebimsv/ml-series-day-17-essential-probability-concepts-from-sample-space-to-probability-rules-962ba5e3dfc9) | 28              |
 | [Linear Algebra for AI](https://medium.com/@ebimsv/mastering-linear-algebra-part-1-introduction-to-linear-algebra-in-machine-learning-fafcae1a5879)        | 8               |
 | [Python for AI](https://medium.com/@ebimsv/mastering-python-for-ai-week-1-introduction-to-python-977cbbb659d7)                                             | 5               |
