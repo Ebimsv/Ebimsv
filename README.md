@@ -97,9 +97,9 @@
 
 ### 📕 Latest Blog Posts
 
-- [Machine Learning Series: Day 44 —  Advanced Applications of Hypothesis Testing](https://medium.com/@ebimsv/ml-series-day-44-advanced-applications-of-hypothesis-testing-in-machine-learning-5b22a7d36bb6)
-- [Machine Learning Series: Day 43 — Parametric vs Non-Parametric Tests](https://medium.com/@ebimsv/ml-series-day-43-parametric-vs-non-parametric-tests-5c48d0b271f9)
-- [Machine Learning Series: Day 42 — Statistical Tests for Model Comparison](https://medium.com/@ebimsv/ml-series-day-42-statistical-tests-for-model-comparison-4f5cf63da74a)
+- [ML Series: Day 48 — Encoding Categorical Variables (Part 1): Basics](https://medium.com/@ebimsv/ml-series-day-48-encoding-categorical-variables-part-1-basics-380b4a90538b)
+- [ML Series: Day 47 — Scaling and Normalization](https://medium.com/@ebimsv/ml-series-day-47-scaling-and-normalization-073e6a10fa7b)
+- [ML Series: Day 46 — Advanced Feature Engineering Techniques](https://medium.com/@ebimsv/ml-series-day-46-advanced-feature-engineering-techniques-3ea812e6637c)
 
 ---
 
