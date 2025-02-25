@@ -97,9 +97,9 @@
 
 ### 📕 Latest Blog Posts
 
+- [ML Series: Day 49 — Advanced Encoding Techniques for Complex Categorical Features](https://medium.com/@ebimsv/ml-series-day-49-advanced-encoding-techniques-for-complex-categorical-features-8cc1a67b210d)
 - [ML Series: Day 48 — Encoding Categorical Variables (Part 1): Basics](https://medium.com/@ebimsv/ml-series-day-48-encoding-categorical-variables-part-1-basics-380b4a90538b)
 - [ML Series: Day 47 — Scaling and Normalization](https://medium.com/@ebimsv/ml-series-day-47-scaling-and-normalization-073e6a10fa7b)
-- [ML Series: Day 46 — Advanced Feature Engineering Techniques](https://medium.com/@ebimsv/ml-series-day-46-advanced-feature-engineering-techniques-3ea812e6637c)
 
 ---
 
