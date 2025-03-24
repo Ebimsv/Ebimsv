@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/ebimsv">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Ebrahim+Mousavi;Researcher+%7C+ML+Engineer;Generative AI+%7C+Computer+Vision+%7C+NLP+%7C+Bioinformatics; Looking+for+PhD+Position in GenAI" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Ebrahim+Mousavi;Researcher+%7C+ML+Engineer;Generative AI+%7C+Computer+Vision+%7C+NLP+%7C+Bioinformatics; LLMs" alt="Typing SVG"/>
 </a> 
   
 <br/>
