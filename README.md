@@ -40,10 +40,10 @@
 
 <h3>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=ebimsv&color=36b812"> <img align="right" alt="Stars" src="https://img.shields.io/github/stars/ebimsv?style=social"> </h3>
 
-- 🎓 Looking for a PhD position in NLP & Computer Vision.
-- 🔬 May 2024 – Present: Research Assistant at the LBB Laboratory of Systems Biology and Bioinformatics, University of Tehran, supervised by Prof. Ali Masoudi-Nejad. [Google Scholar](https://scholar.google.com/citations?user=KsYyCLAAAAAJ&hl=en)
-- 📚 March 2020 – Present: Research Assistant and Teaching Assistant at Tarbiat Modares University, Tehran, Iran, supervised by Prof. Gholam Ali Montazer. [Google Scholar](https://scholar.google.com/citations?user=YFobHWAAAAAJ&hl=en)
-- 🧬 Currently working on Protein Language Models.
+- 🤖 AI researcher specializing in Generative AI, Large Language Models (LLMs), Computer Vision, and Vision-Language Models (VLMs).  
+- 🔬 May 2024 – Present: Research Assistant at the LBB Laboratory of Systems Biology and Bioinformatics, University of Tehran, supervised by Prof. Ali Masoudi-Nejad. [Google Scholar](https://scholar.google.com/citations?user=KsYyCLAAAAAJ&hl=en)  
+- 📚 March 2020 – Present: Research Assistant and Teaching Assistant at Tarbiat Modares University, Tehran, Iran, supervised by Prof. Gholam Ali Montazer. [Google Scholar](https://scholar.google.com/citations?user=YFobHWAAAAAJ&hl=en)  
+- 🧠 Actively working on foundational models and multi-modal AI, with a focus on real-world applications and intelligent systems.
 
 ---
 
@@ -55,7 +55,7 @@
 
 | Title                                                                                                                                                      | Tutorial Count  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Machine Learning Series](https://medium.com/@ebimsv/machine-learning-series-day-1-introduction-c3b6e8410a1e)                                              | 48              |
+| [Machine Learning Series](https://medium.com/@ebimsv/ml-series-day-50-curse-of-dimensionality-463f250fc8a4)                                              | 50             |
 | [Probability & Statistics](https://medium.com/@ebimsv/ml-series-day-17-essential-probability-concepts-from-sample-space-to-probability-rules-962ba5e3dfc9) | 28              |
 | [Linear Algebra for AI](https://medium.com/@ebimsv/mastering-linear-algebra-part-1-introduction-to-linear-algebra-in-machine-learning-fafcae1a5879)        | 8               |
 | [Python for AI](https://medium.com/@ebimsv/mastering-python-for-ai-week-1-introduction-to-python-977cbbb659d7)                                             | 5               |
@@ -63,7 +63,7 @@
 | [Mastering Pandas](https://medium.com/@ebimsv/mastering-pandas-part-1-introduction-to-pandas-fc7dc3ad7ee0)                                                 | 5               |
 | [Mastering Matplotlib](https://medium.com/@ebimsv/mastering-matplotlib-1-an-introduction-and-basic-plotting-techniques-228df6216bee)                       | 9               |
 | [Complex Network Series](https://medium.com/@ebimsv/complex-network-series-part-1-an-overview-ddd9e0b6ec3a)                                                | 7               |
-| [NLP Series](https://medium.com/@ebimsv/nlp-series-day-1-foundations-of-natural-language-processing-1187cb56c26d)                                          | 5 (In progress) |
+| [NLP Series](https://medium.com/@ebimsv/nlp-series-day-6-processing-chat-words-slang-abbreviations-and-code-examples-5270043a84ae)  |                     6 (In progress) |
 | [Mastering CNNs in PyTorch](https://medium.com/@ebimsv/mastering-cnns-in-pytorch-week-1-fundamentals-of-convolutional-neural-networks-cnns-f89e4e3fa12b)   | 2 (In progress) |
 
 </td><td>
