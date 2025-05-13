@@ -58,8 +58,7 @@
 | [Machine Learning Series](https://medium.com/@ebimsv/ml-series-day-50-curse-of-dimensionality-463f250fc8a4)                                              | 50             |
 | [Probability & Statistics](https://medium.com/@ebimsv/ml-series-day-17-essential-probability-concepts-from-sample-space-to-probability-rules-962ba5e3dfc9) | 28              |
 | [Linear Algebra for AI](https://medium.com/@ebimsv/mastering-linear-algebra-part-1-introduction-to-linear-algebra-in-machine-learning-fafcae1a5879)        | 8               |
-| [Python for AI](https://medium.com/@ebimsv/mastering-python-for-ai-week-1-introduction-to-python-977cbbb659d7)                                             | 5               |
-| [Mastering Classes in Python](https://medium.com/@ebimsv/mastering-classes-in-python-1-introduction-to-classes-bd5c0170dcfd)                               | 5               |
+| [Python for AI](https://medium.com/@ebimsv/mastering-python-for-ai-week-1-introduction-to-python-977cbbb659d7)                                             | 9               |
 | [Mastering Pandas](https://medium.com/@ebimsv/mastering-pandas-part-1-introduction-to-pandas-fc7dc3ad7ee0)                                                 | 5               |
 | [Mastering Matplotlib](https://medium.com/@ebimsv/mastering-matplotlib-1-an-introduction-and-basic-plotting-techniques-228df6216bee)                       | 9               |
 | [Complex Network Series](https://medium.com/@ebimsv/complex-network-series-part-1-an-overview-ddd9e0b6ec3a)                                                | 7               |
@@ -97,9 +96,8 @@
 
 ### 📕 Latest Blog Posts
 
-- [ML Series: Day 49 — Advanced Encoding Techniques for Complex Categorical Features](https://medium.com/@ebimsv/ml-series-day-49-advanced-encoding-techniques-for-complex-categorical-features-8cc1a67b210d)
-- [ML Series: Day 48 — Encoding Categorical Variables (Part 1): Basics](https://medium.com/@ebimsv/ml-series-day-48-encoding-categorical-variables-part-1-basics-380b4a90538b)
-- [ML Series: Day 47 — Scaling and Normalization](https://medium.com/@ebimsv/ml-series-day-47-scaling-and-normalization-073e6a10fa7b)
+- [Python for AI: Week 9 - Mastering @dataclass In Python for Deep Learning Projects](https://medium.com/@ebimsv/python-for-ai-week-9-mastering-dataclass-in-python-for-deep-learning-projects-f2f2d06652f8)
+- [ML Series: Day 50 — ML Series: Day 50 — Curse of Dimensionality](https://medium.com/@ebimsv/ml-series-day-50-curse-of-dimensionality-463f250fc8a4)
 
 ---
 
