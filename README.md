@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/ebimsv">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Ebrahim+Mousavi;Researcher+%7C+ML+Engineer;Generative AI+%7C+Computer+Vision+%7C+NLP+%7C+LLMs" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=150&multiline=true&width=500&height=100&lines=Ebrahim+Mousavi;AI Engineer+%7C+LLM+Engineer;Agentic AI+%7C+RAG+%7C+LLM Alignment" alt="Typing SVG"/>
 </a> 
   
 <br/>
@@ -17,16 +17,6 @@
 <a href="https://www.kaggle.com/ebimsv" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white">
 </a>
-<a href="https://www.instagram.com/ebiimsv/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
-</a>
-<a href="https://twitter.com/ebiimsv" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
-</a>
-<a href="https://t.me/ebiimsv" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
-</a>
-
 <a href="mailto:ebimsv0501@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
@@ -38,122 +28,113 @@
 </a>
 </p>
 
-<h3>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=ebimsv&color=36b812"> <img align="right" alt="Stars" src="https://img.shields.io/github/stars/ebimsv?style=social"> </h3>
+<h3>
 
-- 🤖 AI researcher specializing in Generative AI, Large Language Models (LLMs), Computer Vision, and Vision-Language Models (VLMs).  
-- 🔬 May 2024 – Present: Research Assistant at the LBB Laboratory of Systems Biology and Bioinformatics, University of Tehran, supervised by Prof. Ali Masoudi-Nejad. [Google Scholar](https://scholar.google.com/citations?user=KsYyCLAAAAAJ&hl=en)  
-- 📚 March 2020 – Present: Research Assistant and Teaching Assistant at Tarbiat Modares University, Tehran, Iran, supervised by Prof. Gholam Ali Montazer. [Google Scholar](https://scholar.google.com/citations?user=YFobHWAAAAAJ&hl=en)  
-- 🧠 Actively working on foundational models and multi-modal AI, with a focus on real-world applications and intelligent systems.
+<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=ebimsv&color=36b812">
+<img align="right" alt="Stars" src="https://img.shields.io/github/stars/ebimsv?style=social">
+</h3>
 
----
+## 👋 About Me
 
-### 🖥️ Open-Source Projects
+I'm an AI Engineer and Applied Researcher specializing in Large Language Models (LLMs), Agentic AI Systems, Retrieval-Augmented Generation (RAG), and Text-to-SQL solutions.
 
-<table>  
-<tr><th>AI Tutorials: Theory and Code Combined</th><th>Machine Learning Repositories</th></tr>  
-<tr><td>
+My work focuses on designing, fine-tuning, aligning, evaluating, and deploying production-grade AI systems. I build enterprise AI applications ranging from Agentic RAG platforms and knowledge assistants to natural-language interfaces for structured data.
 
-| Title                                                                                                                                                      | Tutorial Count  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Machine Learning Series](https://medium.com/@ebimsv/ml-series-day-50-curse-of-dimensionality-463f250fc8a4)                                              | 50             |
-| [Probability & Statistics](https://medium.com/@ebimsv/ml-series-day-17-essential-probability-concepts-from-sample-space-to-probability-rules-962ba5e3dfc9) | 28              |
-| [Linear Algebra for AI](https://medium.com/@ebimsv/mastering-linear-algebra-part-1-introduction-to-linear-algebra-in-machine-learning-fafcae1a5879)        | 8               |
-| [Python for AI](https://medium.com/@ebimsv/mastering-python-for-ai-week-1-introduction-to-python-977cbbb659d7)                                             | 9               |
-| [Mastering Pandas](https://medium.com/@ebimsv/mastering-pandas-part-1-introduction-to-pandas-fc7dc3ad7ee0)                                                 | 5               |
-| [Mastering Matplotlib](https://medium.com/@ebimsv/mastering-matplotlib-1-an-introduction-and-basic-plotting-techniques-228df6216bee)                       | 9               |
-| [Complex Network Series](https://medium.com/@ebimsv/complex-network-series-part-1-an-overview-ddd9e0b6ec3a)                                                | 7               |
-| [NLP Series](https://medium.com/@ebimsv/nlp-series-day-6-processing-chat-words-slang-abbreviations-and-code-examples-5270043a84ae)  |                     6 (In progress) |
-| [Mastering CNNs in PyTorch](https://medium.com/@ebimsv/mastering-cnns-in-pytorch-week-1-fundamentals-of-convolutional-neural-networks-cnns-f89e4e3fa12b)   | 2 (In progress) |
+My interests include LLM post-training, reasoning systems, retrieval architectures, AI evaluation frameworks, and scalable infrastructure for deploying foundation models in real-world environments.
 
-</td><td>
 
-| Title                                                                                  | Stars                                                                                                                                    | Technologies                                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Machine_Learning_Course](https://github.com/Ebimsv/Machine_Learning_Course)           | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Machine_Learning_Course?style=flat-square&labelColor=black"/>           | ![Sklearn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
-| [Facial_Age_estimation](https://github.com/ebimsv/Facial_Age_estimation_PyTorch)       | <img alt="Stars" src="https://img.shields.io/github/stars/Ebimsv/Facial_Age_estimation_PyTorch?style=flat-square&labelColor=black"/>     | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=OpenCV&logoColor=white)          |
-| [Torch-Linguist](https://github.com/Ebimsv/Torch-Linguist)                             | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Torch-Linguist?style=flat-square&labelColor=black"/>                    | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TorchText](https://img.shields.io/badge/TorchText-black?style=flat-square&logo=TorchText)                 |
-| [CancerClassification](https://github.com/Ebimsv/ChestCancerClassification-PyTorch)    | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/ChestCancerClassification-PyTorch?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)                             |
-| [Racism-Xenophobia-Classifier](https://github.com/Ebimsv/Racism-Xenophobia-Classifier) | <img alt="Stars" src="https://img.shields.io/github/stars/ebimsv/Racism-Xenophobia-Classifier?style=flat-square&labelColor=black"/>      | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Transformers-yellow)                               |
-| -                                                                                      | -                                                                                                                                        | -                                                                                                                                                                                                 |
-| -                                                                                      | -                                                                                                                                        | -                                                                                                                                                                                                 |
-| -                                                                                      | -                                                                                                                                        | -                                                                                                                                                                                                 |
-| -                                                                                      | -                                                                                                                                        | -                                                                                                                                                                                                 |
-| -                                                                                      | -                                                                                                                                        | -                                                                                                                                                                                                 |
-
-</td></tr> </table>
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-| Media                                                                            | Summary                                                                            |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [Medium ](https://medium.com/@ebimsv/)                                           | I share insights and practical knowledge on machine learning through my blog posts |
-| [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ) | Featuring my research publications and contributions to the field of deep learning |
-| [LinkedIn ](https://www.linkedin.com/in/ebiimsv/)                                | Sharing insights and updates on deep learning innovations and AI model development |
-
----
-
-### 📕 Latest Blog Posts
-
-- [Python for AI: Week 9 - Mastering @dataclass In Python for Deep Learning Projects](https://medium.com/@ebimsv/python-for-ai-week-9-mastering-dataclass-in-python-for-deep-learning-projects-f2f2d06652f8)
-- [ML Series: Day 50 — ML Series: Day 50 — Curse of Dimensionality](https://medium.com/@ebimsv/ml-series-day-50-curse-of-dimensionality-463f250fc8a4)
-
----
-
-### Interests:
-
-- Bioinformatics
-- Protein Language Models
-- NLP
-
----
-
-### Libraries/Languages/Frameworks I'm good at:
-
-<img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white'/> <img src='https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue'/> <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white'/>
-<img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black'/>
-<img src='https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white'/>
-<img src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white'/>
-<img src='https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white'/>
-<img src='https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white'/>
-<img src='https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black'/>
-<img src='https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white'/>
-<img src='https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white'/>
-
----
-
-### Projects I'm Working these days:
-
-<img src='https://img.shields.io/badge/LLM-Deep%20Learning%20for%20Language%20Modeling-blue?style=flat)'/> 
-<img src='https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue?style=flat'/> 
-<img src='https://img.shields.io/badge/Medical%20Segmentation-Image%20Analysis%20in%20Medicine-blue?style=flat'/>
-
----
-
-### Papers that I collaborated in:
+### 📚 Selected Publications
 
 [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://link.springer.com/article/10.1007/s40692-023-00303-w)
 [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightwhite.svg)](https://www.sciencedirect.com/science/article/abs/pii/S026772612300177X)
 [![Paper](https://img.shields.io/badge/Arxiv-2021-bright.svg)](https://arxiv.org/abs/2111.14262)
 [![Paper](https://img.shields.io/badge/Arxiv-2022-bright.svg)](https://arxiv.org/abs/2108.04893)
 
+
+## 🎯 Current Focus
+
+- 🔥 LLM Fine-Tuning & Alignment
+- 🤖 Agentic AI & Multi-Agent Systems
+- 🔎 Production RAG Architectures
+- 🗄️ Text-to-SQL Systems
+- 📊 LLM Evaluation & Benchmarking
+- 🚀 AI Infrastructure & Deployment
+
+
+## 🔨 Currently Building
+
+- Production-grade Agentic RAG systems
+- Enterprise Text-to-SQL platforms
+- LLM alignment and post-training pipelines
+- Evaluation frameworks for LLM applications
+- Synthetic data generation workflows
+
+## Research Interests
+
+- Reasoning Models
+- Foundation Models
+- Retrieval Systems
+- Multimodal AI
+- Bioinformatics & Scientific AI
+
 ---
 
-### Show your support:
+## 🚀 Selected Projects
 
-If you appreciate my work, please consider following and liking me 😉.
+| Project                     | Description                                                                                    |
+| --------------------------- | ---------------------------------------------------------------------------------------------- |
+| Agentic RAG Platform        | Multi-step retrieval, reasoning, and tool-use framework for enterprise knowledge systems       |
+| Enterprise Text-to-SQL      | Natural language interface for structured databases with evaluation and benchmarking pipelines |
+| LLM Alignment Pipeline      | Fine-tuning, instruction tuning, preference optimization, and post-training workflows          |
+| Knowledge Assistant         | Citation-grounded AI assistant powered by hybrid retrieval and enterprise knowledge bases      |
+| Synthetic Dataset Generator | Automated generation of evaluation datasets for LLM benchmarking and testing                   |
+
+
+### ✍️ Technical Writing
+
+📚 Over 100 technical articles covering AI, Machine Learning, Deep Learning, Mathematics, LLMs, Agentic AI, and Software Engineering.
+
+| Series | Articles |
+|----------|----------|
+| Machine Learning Series | 50+ |
+| Probability & Statistics | 28+ |
+| Python for AI | 9+ |
+| Linear Algebra for AI | 8+ |
+| LLMs and Agents in Production | Ongoing |
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+
+| Platform                                                                            |Description                                                                            |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [Medium ](https://medium.com/@ebimsv/)                                           | 100+ technical articles on AI, Machine Learning, and LLMs |
+| [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ) | Research publications in AI, Bioinformatics, and Deep Learning |
+| [LinkedIn ](https://www.linkedin.com/in/ebiimsv/)                                | AI Engineering, LLM systems, and industry updates |
+
 
 ---
 
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
+### 📕 Latest Blog Posts
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebimsv&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebimsv&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ebimsv&theme=dracula)
+- [🧠 LLMs and Agents in Production: Day 8 — Mastering Ollama: Models, Commands, and API Integration](https://medium.com/@ebimsv/llms-and-agents-in-production-day-8-mastering-ollama-models-commands-and-api-integration-aa49e7b38f72)
+- [🧠 LLMs and Agents in Production: Day 9 — Attention Mechanisms & Capacity Trade-offs](https://medium.com/@ebimsv/llms-and-agents-in-production-day-8-attention-mechanisms-capacity-trade-offs-264859693267)
 
-<br>
-</details>
+
+---
+
+## ⚙️ Tech Stack
+
+### LLM & Generative AI
+PyTorch • Transformers • PEFT • TRL • Hugging Face • vLLM
+
+### Agentic Systems
+LangGraph • LangChain • LlamaIndex • MCP
+
+### Retrieval & Search
+Qdrant • FAISS • Hybrid Search • BM25
+
+### Backend & Infrastructure
+FastAPI • Docker • PostgreSQL • Linux • Redis
+
+### Evaluation & Experiment Tracking
+Weights & Biases • MLflow
