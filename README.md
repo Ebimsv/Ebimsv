@@ -43,7 +43,7 @@ My work focuses on designing, fine-tuning, aligning, evaluating, and deploying p
 My interests include LLM post-training, reasoning systems, retrieval architectures, AI evaluation frameworks, and scalable infrastructure for deploying foundation models in real-world environments.
 
 
-### 📚 Selected Publications
+## 📚 Selected Publications
 
 [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightgreen.svg)](https://link.springer.com/article/10.1007/s40692-023-00303-w)
 [![Paper](https://img.shields.io/badge/Q1_Journal-2023-brightwhite.svg)](https://www.sciencedirect.com/science/article/abs/pii/S026772612300177X)
@@ -86,11 +86,10 @@ My interests include LLM post-training, reasoning systems, retrieval architectur
 | Agentic RAG Platform        | Multi-step retrieval, reasoning, and tool-use framework for enterprise knowledge systems       |
 | Enterprise Text-to-SQL      | Natural language interface for structured databases with evaluation and benchmarking pipelines |
 | LLM Alignment Pipeline      | Fine-tuning, instruction tuning, preference optimization, and post-training workflows          |
-| Knowledge Assistant         | Citation-grounded AI assistant powered by hybrid retrieval and enterprise knowledge bases      |
-| Synthetic Dataset Generator | Automated generation of evaluation datasets for LLM benchmarking and testing                   |
+| Knowledge Assistant         | Citation-grounded AI assistant powered by hybrid retrieval and enterprise knowledge bases      |                 |
 
 
-### ✍️ Technical Writing
+## ✍️ Technical Writing
 
 📚 Over 100 technical articles covering AI, Machine Learning, Deep Learning, Mathematics, LLMs, Agentic AI, and Software Engineering.
 
@@ -101,6 +100,11 @@ My interests include LLM post-training, reasoning systems, retrieval architectur
 | Python for AI | 9+ |
 | Linear Algebra for AI | 8+ |
 | LLMs and Agents in Production | Ongoing |
+
+### 📕 Latest Blog Posts
+
+- [🧠 LLMs and Agents in Production: Day 8 — Mastering Ollama: Models, Commands, and API Integration](https://medium.com/@ebimsv/llms-and-agents-in-production-day-8-mastering-ollama-models-commands-and-api-integration-aa49e7b38f72)
+- [🧠 LLMs and Agents in Production: Day 9 — Attention Mechanisms & Capacity Trade-offs](https://medium.com/@ebimsv/llms-and-agents-in-production-day-8-attention-mechanisms-capacity-trade-offs-264859693267)
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
@@ -110,15 +114,6 @@ My interests include LLM post-training, reasoning systems, retrieval architectur
 | [Medium ](https://medium.com/@ebimsv/)                                           | 100+ technical articles on AI, Machine Learning, and LLMs |
 | [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=1pfrUbQAAAAJ) | Research publications in AI, Bioinformatics, and Deep Learning |
 | [LinkedIn ](https://www.linkedin.com/in/ebiimsv/)                                | AI Engineering, LLM systems, and industry updates |
-
-
----
-
-### 📕 Latest Blog Posts
-
-- [🧠 LLMs and Agents in Production: Day 8 — Mastering Ollama: Models, Commands, and API Integration](https://medium.com/@ebimsv/llms-and-agents-in-production-day-8-mastering-ollama-models-commands-and-api-integration-aa49e7b38f72)
-- [🧠 LLMs and Agents in Production: Day 9 — Attention Mechanisms & Capacity Trade-offs](https://medium.com/@ebimsv/llms-and-agents-in-production-day-8-attention-mechanisms-capacity-trade-offs-264859693267)
-
 
 ---
 
